@@ -1,0 +1,16 @@
+Resulting matrix (Sequential Multiplication): 
+43 27 39 
+127 95 131 
+Execution Time (ms): 3
+
+Resulting matrix (Parallel Multiplication): 
+42 36 72 
+64 45 54 
+64 66 78 
+88 88 110 
+Execution Time (ms): 103
+
+Resulting matrix (OMP Parallelism): 
+43 27 39 
+127 95 131 
+Execution Time (ms): 2

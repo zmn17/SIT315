@@ -1,0 +1,12 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/zamyn17/Documents/2024/T2/SIT315-CD.P/SIT315/Module 2/Task1.1P/matrix_multiplication'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003B3C, symSize: 0x1A0 }
+  - { offsetInCU: 0x4479, offset: 0x4479, size: 0x8, addend: 0x0, symName: __ZNSt3__14endlB8ue170006IcNS_11char_traitsIcEEEERNS_13basic_ostreamIT_T0_EES7_, symObjAddr: 0x1CC, symBinAddr: 0x100003D08, symSize: 0x58 }
+  - { offsetInCU: 0x44B9, offset: 0x44B9, size: 0x8, addend: 0x0, symName: __ZNSt3__19use_facetB8ue170006INS_5ctypeIcEEEERKT_RKNS_6localeE, symObjAddr: 0x2B0, symBinAddr: 0x100003DEC, symSize: 0x2C }
+  - { offsetInCU: 0x6E7A, offset: 0x6E7A, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003B3C, symSize: 0x1A0 }
+  - { offsetInCU: 0x7006, offset: 0x7006, size: 0x8, addend: 0x0, symName: __ZNSt3__113basic_ostreamIcNS_11char_traitsIcEEElsB8ue170006EPFRS3_S4_E, symObjAddr: 0x1A0, symBinAddr: 0x100003CDC, symSize: 0x2C }
+  - { offsetInCU: 0x7038, offset: 0x7038, size: 0x8, addend: 0x0, symName: __ZNKSt3__19basic_iosIcNS_11char_traitsIcEEE5widenB8ue170006Ec, symObjAddr: 0x224, symBinAddr: 0x100003D60, symSize: 0x8C }
+  - { offsetInCU: 0x70A4, offset: 0x70A4, size: 0x8, addend: 0x0, symName: __ZNKSt3__15ctypeIcE5widenB8ue170006Ec, symObjAddr: 0x2DC, symBinAddr: 0x100003E18, symSize: 0x38 }
+...

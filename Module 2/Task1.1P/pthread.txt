@@ -1,0 +1,5 @@
+
+Resulting matrix (Parallel Multiplication): 
+43 27 39 
+127 95 131 
+Execution Time (ms): 42
